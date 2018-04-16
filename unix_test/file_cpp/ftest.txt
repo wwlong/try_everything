@@ -1,0 +1,2 @@
+hahaha,write to file
+123456
